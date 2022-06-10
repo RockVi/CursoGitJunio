@@ -1,1 +1,5 @@
 Requisitos para empezar el programa.
+
+Tener instalado VSC.
+Tener instalado SQL Server Express.
+Tener instalado R + R Studio.
